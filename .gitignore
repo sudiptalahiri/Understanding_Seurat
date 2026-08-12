@@ -1,0 +1,21 @@
+.Rhistory
+.RData
+.Rproj.user/
+.DS_Store
+
+# R temporary files
+*.Ruserdata
+
+# Large single-cell / sequencing files
+*.h5
+*.h5ad
+*.mtx
+*.mtx.gz
+*.fastq
+*.fastq.gz
+*.bam
+*.bai
+
+# Seurat objects
+*.rds
+*.RData
